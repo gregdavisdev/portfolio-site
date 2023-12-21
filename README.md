@@ -1,2 +1,2 @@
 # portfolio-site
-profile files for portfolio website
+project files for portfolio website
